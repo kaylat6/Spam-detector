@@ -67,7 +67,7 @@ with gr.Blocks(title="Spam Classifier") as demo:
         # Spam Classifier
 
         Determine whether a text message looks like spam using a machine-learning
-        model you trained yourself.
+        model.
         """
     )
 
